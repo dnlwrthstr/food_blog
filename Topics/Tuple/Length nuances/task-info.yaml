@@ -1,0 +1,23 @@
+type: matching
+captions:
+  - tuple(&quot;corgi&quot;)
+  - "(&quot;corgi&quot;,)"
+  - "tuple([0, 1, 10])"
+  - "([0, 1], (10,))"
+options:
+  - 5
+  - 2
+  - 3
+  - 1
+files:
+  - name: main.py
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/7464#comment
+status: Solved
+record: -1
+ordering:
+  - 0
+  - 1
+  - 2
+  - 3

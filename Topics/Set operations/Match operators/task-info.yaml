@@ -1,0 +1,23 @@
+type: matching
+captions:
+  - intersection
+  - union
+  - update
+  - difference
+options:
+  - '&amp;'
+  - '|'
+  - '|='
+  - '-'
+files:
+  - name: main.py
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/8993#comment
+status: Solved
+record: -1
+ordering:
+  - 0
+  - 1
+  - 2
+  - 3

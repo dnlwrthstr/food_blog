@@ -1,0 +1,20 @@
+type: edu
+files:
+  - name: blog.py
+    visible: true
+    learner_created: false
+  - name: test/__init__.py
+    visible: false
+    learner_created: false
+  - name: test/tests.py
+    visible: false
+    learner_created: false
+  - name: tests.py
+    visible: false
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/12376#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sat, 09 Nov 2024 16:46:24 UTC"
+record: 3

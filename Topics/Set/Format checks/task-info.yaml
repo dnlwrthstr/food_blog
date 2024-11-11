@@ -1,0 +1,15 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: 'unordered and  hashable. '
+  - text: ordered and mutable.
+  - text: none of the variants.
+  - text: ordered and immutable.
+files:
+  - name: main.py
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6646#comment
+status: Solved
+record: -1
+local_check: false

@@ -1,0 +1,16 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: get all elements using a for loop
+  - text: add() method
+  - text: clear() method
+  - text: discard() method
+  - text: len() function
+files:
+  - name: main.py
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/10381#comment
+status: Solved
+record: -1
+local_check: false

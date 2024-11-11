@@ -1,0 +1,17 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: SQLite3 is a part of the standard Python 3 package
+  - text: "To work with SQLite databases, it is necessary to install a separate server"
+  - text: "SQLite databases are serverless and independent, as they read and write data\
+    \ to a file"
+  - text: The SQLite module needs an existing database to connect
+  - text: The SQLite file format is stable and cross-platform
+files:
+  - name: main.py
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/17164#comment
+status: Solved
+record: -1
+local_check: false
